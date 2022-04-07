@@ -58,12 +58,17 @@ I am an experienced web developer having Four years of experience. I have been w
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/himal51)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/himal-majumder-9286aa194/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/himal.majumder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://himalmajumder.xyz)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himal51)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=himal51&show_icons=true&count_private=true)  
+<br>
+<h3 align="center">Statistical Data :-</h3>
+<p align="center"><img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=himalMajumder&show_icons=true&locale=en&layout=compact&theme=react"
+    alt="himalMajumder" /></p>
+<br>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=himal51)  
+<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=himalMajumder&count_private=true&show_icons=true&locale=en&theme=react"
+    alt="himalMajumder" /></p>
+<br>
 
-![GitHub metrics](https://metrics.lecoq.io/himal51)  
-
-![Profile views](https://gpvc.arturio.dev/himal51)  
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himalMajumder&theme=react" alt="kejubayer" /></p>
+ 
