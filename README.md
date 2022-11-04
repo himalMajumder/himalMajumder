@@ -39,7 +39,7 @@ I am an experienced web developer having Four years of experience. I have been w
 ##### Tools
 
 <p>
-<img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" />
+<img src="https://img.shields.io/badge/vscode-blue.svg?logo=visualstudiocode" />
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />    
 </p>
 
