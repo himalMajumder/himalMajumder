@@ -47,7 +47,18 @@ I am an experienced web developer having Four years of experience. I have been w
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> 
- 
+</p>
+
+##### Other Knowledge:
+<p>
+  <img src="https://img.shields.io/badge/DOCKER-0769AD?style=for-the-badge&logo=docker&logoColor=white" /> 
+</p>
+
+##### Studying in this moment:
+<p>
+   <img src="https://img.shields.io/badge/Docker-0769AD?style=for-the-badge&logo=docker&logoColor=white" />
+   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/jenkins-0769AD?style=for-the-badge&logo=jenkins&logoColor=white" />
 </p>
 
 - 🔭 I’m currently working on BDTASK 
