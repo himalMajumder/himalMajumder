@@ -65,7 +65,7 @@ I am an experienced web developer having Four years of experience. I have been w
 </p>
 
 - 🔭 I’m currently working on BDTASK 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Python and JavaScript 
 - 💬 Ask me about Web Development 
 
 
